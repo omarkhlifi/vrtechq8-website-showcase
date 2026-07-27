@@ -138,6 +138,12 @@ VR TECH SITE
 
 ---
 
+## Footer Section
+
+![Footer](screenshots/footer.png)
+
+---
+
 ## Mobile Experience
 
 ![Mobile](screenshots/mobile.png)
